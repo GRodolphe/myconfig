@@ -10,7 +10,7 @@ Clone this repository to your local system using the following command:
 git clone [YOUR_REPO_URL]
 ```
 
-Usage
+## Usage
 
 Each script in the repository is standalone and can be executed independently to set up a specific tool.
 tmux_setup.sh
@@ -18,12 +18,12 @@ tmux_setup.sh
 This script automates the setup of Tmux, a terminal multiplexer, by installing Tmux Plugin Manager (tpm) and configuring various plugins and themes.
 Features
 
-    Installs tpm (Tmux Plugin Manager)
-    Configures mouse mode
-    Applies the Catppuccin theme
-    Adds useful plugins to enhance the Tmux experience
+* Installs tpm (Tmux Plugin Manager)
+* Configures mouse mode
+* Applies the Catppuccin theme
+* Adds useful plugins to enhance the Tmux experience
 
-Execution
+## Execution
 
 To run the tmux_setup.sh script, use the following command:
 ```bash
