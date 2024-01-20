@@ -1,6 +1,6 @@
 # Automation Scripts Repository
 
-This repository contains a collection of scripts designed to automate the installation and configuration of various tools. It is ideal for cybersecurity professionals, developers, and anyone looking to streamline their work environment.
+This repository contains a collection of scripts designed to automate the installation and configuration of various tools.
 
 ## Installation
 
