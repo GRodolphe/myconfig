@@ -9,8 +9,8 @@ Clone this repository to your local system using the following command:
 ```bash
 git clone [YOUR_REPO_URL]
 ```
-
-## Usage
+## Tmux
+### Usage
 
 Each script in the repository is standalone and can be executed independently to set up a specific tool.
 tmux_setup.sh
@@ -23,7 +23,7 @@ Features
 * Applies the Catppuccin theme
 * Adds useful plugins to enhance the Tmux experience
 
-## Execution
+### Execution
 
 To run the tmux_setup.sh script, use the following command:
 ```bash
