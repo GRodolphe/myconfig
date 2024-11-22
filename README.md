@@ -4,11 +4,7 @@ This repository contains a collection of scripts designed to automate the instal
 
 ## Installation
 
-Clone this repository to your local system using the following command:
-
-```bash
-git clone [YOUR_REPO_URL]
-```
+Clone this repository to your local system.
 ## Tmux
 ### Usage
 
